@@ -1,4 +1,22 @@
 {
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbtsao47/coding_challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbtsao47/coding_challenges/issues"
+  },
+  "homepage": "https://github.com/cbtsao47/coding_challenges#readme",
   "devDependencies": {
     "jest": "^24.9.0"
   }

@@ -1,5 +1,5 @@
 class DynamicArray {
-  constructor(capacity = 0) {
+  constructor(capacity = 1) {
     this.data = {};
     this.length = 0;
     this.capacity = capacity;
@@ -30,11 +30,4 @@ class DynamicArray {
     return this.data;
   }
 }
-const dynamicArr = new DynamicArray(4);
-dynamicArr.push(2);
-dynamicArr.push(3);
-dynamicArr.push(4);
-dynamicArr.push(6);
-console.log("1", dynamicArr);
-dynamicArr.push(6);
-console.log("2", dynamicArr);
+module.exports = DynamicArray;
