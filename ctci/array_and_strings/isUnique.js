@@ -25,5 +25,8 @@ function isUnique2(str) {
   }
   return !duplicate;
 }
-console.log(isUnique2("ab")); //true
-console.log(isUnique2("aba")); //false
+
+module.exports = {
+  isUnique,
+  isUnique2
+};
