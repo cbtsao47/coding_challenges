@@ -30,6 +30,26 @@ function rotateMatrix2(matrix) {
   }
   return matrix;
 }
+
+// function rotateMatrix3(matrx){
+//   // base case
+//   if(matrix.length===0 || matrix.length!==matrix[0].length){
+//     return false
+//   }
+//   for(let layer=0;lyaer<matrix.length/2;layer++){
+//     let first = layer;
+//     let last = matrix.length-1-layer;
+//     for(let i=first;i<last;i++){
+//       let offset= i-first;
+//       let top=matrix[first][i] //save top
+//       // left-> top
+//       matrix[first][i]=matrix[last-offset][first];
+//       // bottom -> left
+//       matrix[first][]
+//     }
+//   }
+
+// }
 module.exports = {
   rotateMatrix,
   rotateMatrix2
