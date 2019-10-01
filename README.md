@@ -2,9 +2,7 @@
 
 this repo consists of CTCI, Codility, and random practice problems.
 
-# CTCI
-
----
+### CTCI
 
 ## Array and Strings
 
