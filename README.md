@@ -4,8 +4,8 @@ this repo consists of CTCI, Codility, and random practice problems.
 
 ### CTCI
 
-| ###Array and Strings                           | #### Linked Lists                           | #### Stacks and Queues |
-| ---------------------------------------------- | ------------------------------------------- | ---------------------- |
+| Array and Strings                              | Linked Lists                                | Stacks and Queues |
+| ---------------------------------------------- | ------------------------------------------- | ----------------- |
 | <ul><li>- [x] Array class </li></ul>           | <ul><li>- [ ] Linked List Class </li></ul>  |
 | <ul><li>- [x] CheckPermutation </li></ul>      | <ul><li>- [ ] Remove Dups </li></ul>        |
 | <ul><li>- [x] Is Unique </li></ul>             | <ul><li>- [ ] Return Kth to Last </li></ul> |
