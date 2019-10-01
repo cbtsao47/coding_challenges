@@ -4,29 +4,15 @@ this repo consists of CTCI, Codility, and random practice problems.
 
 ### CTCI
 
-#### Array and Strings
-
-- [x] Array class
-- [x] CheckPermutation
-- [x] Is Unique
-- [x] One Away
-- [x] Palindrome Permutation
-- [x] Rotate Matrix
-- [x] String Compression
-- [x] URLify
-- [ ] Zero Matrix
-- [ ] String Rotation
-
-#### Linked Lists
-
-- [ ] Linked List Class
-- [ ] Remove Dups
-- [ ] Return Kth to Last
-- [ ] Delete Middle Node
-- [ ] Partition
-- [ ] Sum Lists
-- [ ] Palindrome
-- [ ] Intersection
-- [ ] Loop Detection
-
-#### Stacks and Queues
+| ###Array and Strings         | #### Linked Lists        | #### Stacks and Queues |
+| ---------------------------- | ------------------------ | ---------------------- |
+| - [x] Array class            | - [ ] Linked List Class  |
+| - [x] CheckPermutation       | - [ ] Remove Dups        |
+| - [x] Is Unique              | - [ ] Return Kth to Last |
+| - [x] One Away               | - [ ] Delete Middle Node |
+| - [x] Palindrome Permutation | - [ ] Partition          |
+| - [x] Rotate Matrix          | - [ ] Sum Lists          |
+| - [x] String Compression     | - [ ] Palindrome         |
+| - [x] URLify                 | - [ ] Intersection       |
+| - [ ] Zero Matrix            | - [ ] Loop Detection     |
+| - [ ] String Rotation        |
