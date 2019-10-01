@@ -4,7 +4,7 @@ this repo consists of CTCI, Codility, and random practice problems.
 
 ### CTCI
 
-## Array and Strings
+#### Array and Strings
 
 - [x] Array class
 - [x] CheckPermutation
@@ -17,7 +17,7 @@ this repo consists of CTCI, Codility, and random practice problems.
 - [ ] Zero Matrix
 - [ ] String Rotation
 
-## Linked Lists
+#### Linked Lists
 
 - [ ] Linked List Class
 - [ ] Remove Dups
@@ -29,4 +29,4 @@ this repo consists of CTCI, Codility, and random practice problems.
 - [ ] Intersection
 - [ ] Loop Detection
 
-- Stacks and Queues
+#### Stacks and Queues
