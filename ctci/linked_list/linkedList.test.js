@@ -2,8 +2,10 @@ const { LinkedList } = require("./linkedList");
 
 describe("Linked List", () => {
   const LL = new LinkedList();
-  test("should be empty", () => {
-    expect(LL.isEmpty()).toBe(true);
+  describe("isEmpty", () => {
+    test("should be empty", () => {
+      expect(LL.isEmpty()).toBe(true);
+    });
   });
   describe("Add", () => {
     test("should be able to add a node", () => {
